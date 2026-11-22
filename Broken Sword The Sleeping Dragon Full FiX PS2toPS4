@@ -41,3 +41,5 @@ emuObj.ThrottleMax()
 end
 
 emuObj.AddVsyncHook(patcher)
+
+https://dropmefiles.com/thFvF
